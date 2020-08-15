@@ -1,0 +1,23 @@
+.sidebar {
+  border: 1px solid black;
+  height: 100vh;
+  flex: 0.2;
+  background-color: black;
+  color: aliceblue;
+  min-width: 230px;
+  padding-left: 10px;
+}
+.sidebar_logo {
+  height: 70px;
+  padding: 10px;
+  margin-right: auto;
+}
+.sidebar > hr {
+  border: 1px solid #282828;
+  width: 90%;
+  margin: 10px auto;
+}
+
+strong {
+  margin: 10px;
+}
